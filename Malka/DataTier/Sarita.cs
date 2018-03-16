@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Malka
+namespace DataTier
 {
     class Sarita
     {
-        public static void Main(String[] args)
+        static void Main(string[] args)
         {
-
-            Console.WriteLine("hi pashosh");
-			String my = @"
+            String my = @"
 ___________((_____))
 ____________))___((
 ___________((_____))
@@ -37,5 +35,4 @@ _____$$$$$$$$$$$$$$$$$$$$__
             Console.WriteLine(my);
         }
     }
-    
 }
