@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Malka
 {
-    class Program
+    class Sarita
     {
-        static void shlomo(string[] args)
+        public static void Main(String[] args)
         {
-            Console.WriteLine("Pashosh amelech");
 
+            Console.WriteLine("hi pashosh");
         }
     }
+    
 }
