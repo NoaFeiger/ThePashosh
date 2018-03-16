@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Malka
 {
-    class Sarit
+    class Sarita
     {
-        static void Main(string[] args)
+        public static void Main(String[] args)
         {
-            String my = @"
+
+            Console.WriteLine("hi pashosh");
+			String my = @"
 ___________((_____))
 ____________))___((
 ___________((_____))
@@ -35,4 +37,5 @@ _____$$$$$$$$$$$$$$$$$$$$__
             Console.WriteLine(my);
         }
     }
+    
 }

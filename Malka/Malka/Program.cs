@@ -8,7 +8,7 @@ namespace Malka
 {
     class Program
     {
-        static void Main(string[] args)
+        static void shlomo(string[] args)
         {
             Console.WriteLine("Pashosh amelech");
 
